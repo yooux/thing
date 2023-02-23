@@ -1,0 +1,8 @@
+mods/data/bro/bro-easy.json
+mods/data/bro/bro-hard.json
+mods/data/bro/bro.json
+mods/data/bro/events.json
+mods/songs/bro/Voices.ogg
+mods/songs/bro/Inst.ogg
+mods/songs/bro/voices.ogg
+mods/songs/bro/inst.ogg

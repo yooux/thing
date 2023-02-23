@@ -1,0 +1,7 @@
+mods/data/lit-up/lit-up-easy.json
+mods/data/lit-up/lit-up-hard.json
+mods/data/lit-up/lit-up.json
+mods/songs/lit-up/Voices.ogg
+mods/songs/lit-up/Inst.ogg
+mods/songs/lit-up/voices.ogg
+mods/songs/lit-up/inst.ogg

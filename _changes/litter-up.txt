@@ -1,0 +1,7 @@
+mods/data/litter-up/litter-up-easy.json
+mods/data/litter-up/litter-up-hard.json
+mods/data/litter-up/litter-up.json
+mods/songs/litter-up/Voices.ogg
+mods/songs/litter-up/Inst.ogg
+mods/songs/litter-up/voices.ogg
+mods/songs/litter-up/inst.ogg

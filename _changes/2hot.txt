@@ -1,0 +1,8 @@
+mods/data/2hot/2hot-easy.json
+mods/data/2hot/2hot-hard.json
+mods/data/2hot/2hot.json
+mods/data/2hot/events.json
+mods/songs/2hot/Voices.ogg
+mods/songs/2hot/Inst.ogg
+mods/songs/2hot/voices.ogg
+mods/songs/2hot/inst.ogg
